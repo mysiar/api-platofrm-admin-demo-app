@@ -1,0 +1,27 @@
+{
+  "name": "api-platofrm-admin-demo-app",
+  "version": "1.0.0",
+  "description": "Demo application for API Platform admin",
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://mysiar.github.io/api-platofrm-admin-demo-app/",
+  "dependencies": {
+    "@api-platform/admin": "^0.1.16",
+    "react-scripts": "1.0.14"
+  },
+  "author": {
+    "name": "Piotr Synowiec",
+    "email": "psynowiec@gmail.com",
+    "url": ""
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
