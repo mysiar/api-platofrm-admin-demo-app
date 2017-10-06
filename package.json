@@ -6,7 +6,7 @@
   "private": true,
   "homepage": "https://mysiar.github.io/api-platofrm-admin-demo-app/",
   "dependencies": {
-    "@api-platform/admin": "^0.1.16",
+    "@api-platform/admin": "^0.1",
     "react-scripts": "1.0.14"
   },
   "author": {
